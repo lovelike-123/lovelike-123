@@ -2,6 +2,6 @@
 
 int main ()
 {
-  printf("hello,world   vddsvsdvsdvsdvhello,china");
+  printf("hello,world   vdds,china");
   return 0;
 }
